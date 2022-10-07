@@ -22,8 +22,6 @@ templates = Jinja2Templates(directory="templates")
 
 app = FastAPI(title="Jotform Form Validation")
 
-jotformAPI = JotformAPIClient("7f8ce90b8d898a20bebcb12c3d8b52be")
-
 regex_email = ('([A-Za-z0-9]+[.-_])*[A-Za-z0-9]+@[A-Za-z0-9-]+(\.[A-Z|a-z]{2,})+')
 regex_card = "(\d{4} \d{4} \d{4} \d{4})|(\d{4}\-\d{4}\-\d{4}\-\d{4})|([1-9]\d{15})"
 regex_ip4 = "^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$"
