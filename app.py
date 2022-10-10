@@ -20,7 +20,9 @@ from fastapi import FastAPI, Request, HTTPException
 
 templates = Jinja2Templates(directory="templates")
 
+
 app = FastAPI(title="Jotform Form Validation")
+
 
 regex_email = ('([A-Za-z0-9]+[.-_])*[A-Za-z0-9]+@[A-Za-z0-9-]+(\.[A-Z|a-z]{2,})+')
 regex_card = "(\d{4} \d{4} \d{4} \d{4})|(\d{4}\-\d{4}\-\d{4}\-\d{4})|([1-9]\d{15})"
