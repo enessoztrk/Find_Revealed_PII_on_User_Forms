@@ -1,13 +1,3 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-#
-# JotForm API - Python Client
-#
-# copyright : 2020 JotForm, Inc.
-# link : http://www.jotform.com
-# version : 1.0
-# package : JotFormAPI
-
 import urllib.request, urllib.parse, urllib.error
 import json
 
