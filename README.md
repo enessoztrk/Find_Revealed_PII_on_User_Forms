@@ -1,2 +1,7 @@
 # Find-Revealed PII on User Forms
-• The PII entered by the users was determined by analyzing the texts written by the users to the 'Form' structure, which is one of the Jotform products.<br/><br/>
+• Users who create the form in the 'Form' structure, which is one of Jotfom's products, consciously or unconsciously write their personal information on the forms. Using this information in the form causes security issues. A study was conducted to find a solution to this problem and to identify written personal information.<br/>
+• The API was created with Fast API and personal information in the form can be easily determined by typing the Form ID information of the forms created by the users.<br/><br/>
+![This is an image]([[https://github.com/enessoztrk/Creating_Virtual_Environment/blob/main/img.jpg](https://github.com/enessoztrk/Find-Revealed-PII-on-User-Forms/blob/master/.idea/1.png](https://github.com/enessoztrk/Find-Revealed-PII-on-User-Forms/blob/master/.idea/1.png)))<br/><br/>
+![This is an image]([[https://github.com/enessoztrk/Creating_Virtual_Environment/blob/main/img.jpg](https://github.com/enessoztrk/Find-Revealed-PII-on-User-Forms/blob/master/.idea/1.png](https://github.com/enessoztrk/Find-Revealed-PII-on-User-Forms/blob/master/.idea/2.png)))<br/><br/>
+![This is an image]([[[https://github.com/enessoztrk/Creating_Virtual_Environment/blob/main/img.jpg](https://github.com/enessoztrk/Find-Revealed-PII-on-User-Forms/blob/master/.idea/1.png](https://github.com/enessoztrk/Find-Revealed-PII-on-User-Forms/blob/master/.idea/2.png](https://github.com/enessoztrk/Find-Revealed-PII-on-User-Forms/blob/master/.idea/3.png))))<br/><br/>
+
