@@ -23,15 +23,7 @@ templates = Jinja2Templates(directory="templates")
 
 app = FastAPI(title="Jotform Form Validation")
 
-
-regex_email = ('([A-Za-z0-9]+[.-_])*[A-Za-z0-9]+@[A-Za-z0-9-]+(\.[A-Z|a-z]{2,})+')
-regex_card = "(\d{4} \d{4} \d{4} \d{4})|(\d{4}\-\d{4}\-\d{4}\-\d{4})|([1-9]\d{15})"
-regex_ip4 = "^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$"
-regex_zip = "[1-9]\d{4}(?=\D)"
-regex_ssn = ("((0(?!00)|[1-9])\d{4}(0(?!000)&[1-9])\d{3})|((0(?!00)|[1-9])\d{2}-\d{2}-(0(?!000)|[1-9])\d{3})|(\d{3} \d{2} \d{4})")
-regex_phone = "[0-9]{3}-[0-9]{3}-[0-9]{4}"
-regex_passport = "\d{9}(?=\D)"
-
+# Private Regex Code(Masked) 
 
 def check(control):
     data = {}
