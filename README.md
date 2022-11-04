@@ -13,4 +13,6 @@
 • Passports contain personally identifiable information.<br/><br/>
 • Social media sites may be considered non-sensitive personally identifiable information.<br/><br/>
 ![This is an image](https://github.com/enessoztrk/Find-Revealed-PII-on-User-Forms/blob/master/.idea/3.png?raw=true)<br/><br/>
-
+## Why does PII need to be secured?<br/>
+• Protecting PII is essential for personal privacy, data privacy, data protection, information privacy and information security. With just a few bits of an individual's personal information, thieves can create false accounts in the person's name, incur debt, create a falsified passport or sell a person's identity to a criminal.<br/><br/>
+• As individuals' personal data is recorded, tracked and used daily -- such as in biometric scans with fingerprints and facial recognition systems used to unlock devices -- it is increasingly essential to protect individuals' identity and any pieces of identifying information unique to them.
